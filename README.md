@@ -1,9 +1,9 @@
 
 # test-me
 
-##today plan 
+  ## today plan 
 
--practice Python
--intro to pandas 
--Indexing
--Merging Pandas
+  - practice Python  
+  - intro to pandas  
+  - Indexing  
+  - Merging Pandas  
