@@ -1,2 +1,9 @@
+
 # test-me
-ohjof
+
+##today plan 
+
+-practice Python
+-intro to pandas 
+-Indexing
+-Merging Pandas
